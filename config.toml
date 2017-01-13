@@ -1,0 +1,4 @@
+title = "My New Hugo Site"
+baseurl = "http://lee.joramo.com/"
+languageCode = "en-us"
+theme="angels-ladder"
