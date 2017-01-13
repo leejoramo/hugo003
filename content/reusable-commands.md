@@ -8,11 +8,11 @@ type = "post"
 +++
 Writing libraries in Go is a relatively well-covered topic, I think... but I see a lot fewer posts about writing commands. When it comes down to it, all Go code ends up in a command. So let's talk about it! This will be the first in a series, since I ended up having a lot more to say than I realized.
 
-{{% div left %}}
+{{% layout left %}}
 
 Today I'm going to focus on basic project layout, with the aims of optimizing for reusability and testability.
 
-{{% /div }}
+{{% /layout }}
 
 There are three _unique_ bits about commands that influence how I structure my code when writing a command rather than a library:
 
