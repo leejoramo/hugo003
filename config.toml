@@ -1,4 +1,4 @@
 title = "My New Hugo Site"
-baseurl = "http://lee.joramo.com/"
+baseurl = "/"
 languageCode = "en-us"
 theme="angels-ladder"
