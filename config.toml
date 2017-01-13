@@ -1,4 +1,4 @@
-title = "My New Hugo Site"
 baseurl = "https://leejoramo.github.io"
 languageCode = "en-us"
-theme="angels-ladder"
+theme = "angels-ladder"
+title = "My New Hugo Site"
