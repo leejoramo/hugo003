@@ -12,7 +12,7 @@ Writing libraries in Go is a relatively well-covered topic, I think... but I see
 
 Today I'm going to focus on basic project layout, with the aims of optimizing for reusability and testability.
 
-{{% /layout }}
+{{% /layout %}}
 
 There are three _unique_ bits about commands that influence how I structure my code when writing a command rather than a library:
 
